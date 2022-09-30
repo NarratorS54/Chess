@@ -5,4 +5,4 @@
 ### The Start of My Chess in 2020
 #### Playing d4 | Queen's Pawn, Chigorin Variation
 
-![Chigorin Variation](Chigorin Variation Image.png)
+![Chigorin Variation](Images/Chigorin Variation Image.png)
