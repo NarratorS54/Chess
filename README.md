@@ -5,7 +5,7 @@
 ### The Start of My Chess in 2020
 #### Playing d4 | Queen's Pawn, Zukertort, Chigorin Variation
 
-![Zukertort, Chigorin Variation](Images/Chigorin Variation Image.png)
+![Zukertort, Chigorin Variation](Images/Zukertort, Chigorin Variation.jpeg)
 
 The Queen's Pawn, Zukertort, Chigorin Variation Opening was a fairly simple first opening to invest time into. It goes **1. d4 d5 2. Nf3 Nc6**. The Pawn on d4 is **overproteced** by the white queen and the knight on c6. This makes this a fairly structurally sound center to develop your pieces around and can be used to play a *London System* (mentioned later in the document).
 
