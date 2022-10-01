@@ -43,3 +43,6 @@ While this was not nearly as popular of an opening choice by me, I wanted to inc
 While the games played with this opening were always interesting, I eventually stopped playing this opening, instead playing the Caro-Kann, as mentioned above, and future openings with the black pieces.
 
 ## ***TO BE CONTINUED...?***
+
+## In the meantime, check out my Chess.com account!
+![https://www.chess.com/member/narrator54](Images/Chess.com Logo.png)
