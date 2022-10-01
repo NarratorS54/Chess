@@ -45,4 +45,6 @@ While the games played with this opening were always interesting, I eventually s
 ## ***TO BE CONTINUED...?***
 
 ## In the meantime, check out my Chess.com account!
-[Images/Chess.com Logo.png](https://www.chess.com/member/narrator54)
+[![Chess Pieces](Images/Chess Pieces.jpg)](https://www.chess.com/member/narrator54)
+
+Image by Adrian Askew via Flicker
