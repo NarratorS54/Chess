@@ -12,7 +12,7 @@ The Queen's Pawn, Zukertort, Chigorin Variation Opening was a fairly simple firs
 This was the first Chess opening that I played, and it is a very sound opening at beginner and intermediate level. However, in higher levels, as opponents learn various *King's Indian* or *Dutch Defense* variations, you might no longer see 1. d4 **d5** on the board.
 
 
-### Playing c4 | English Opening, Four Knights, Quiet Line
+#### Playing c4 | English Opening, Four Knights, Quiet Line
 
 ![English](Images/English Opening, Four Knights, Quiet Line.jpeg)
 
