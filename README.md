@@ -44,7 +44,7 @@ While the games played with this opening were always interesting, I eventually s
 
 ## ***TO BE CONTINUED...?***
 
-## In the meantime, check out my Chess.com account!
+## In the meantime, check out my Chess.com account! Click the image below!
 [![Chess Pieces](Images/Chess Pieces.jpg)](https://www.chess.com/member/narrator54)
 
 Image by Adrian Askew via Flickr (Used Fairly Under CC BY 2.0)
